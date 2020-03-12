@@ -87,7 +87,7 @@
                 </div>
                 <div class="featured-social-btns">
                     <div class="container">
-                        <button onclick="window.location.href = 'https://www.facebook.com/OnMyWayHomeRescue';>Facebook</button>
+                        <button onclick="window.location.href = 'https://www.facebook.com/OnMyWayHomeRescue';">Facebook</button>
                         <button>Email</button>
                         <button>Twitter</button>
                     </div>
