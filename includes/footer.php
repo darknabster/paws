@@ -6,28 +6,28 @@
 				<div class="slider">
 					<div class="slide-track">
 						<div class="slide">
-							<img src="/paws/assets/images/start-fundraiser-logo-slider1.jpg" height="78" width="179" alt="" />
+							<img src="./images/start-fundraiser-logo-slider1.jpg" height="78" width="179" alt="" />
 						</div>
 						<div class="slide">
-							<img src="/paws/assets/images/start-fundraiser-logo-slider2.jpg" height="78" width="179" alt="" />
+							<img src="./images/start-fundraiser-logo-slider2.jpg" height="78" width="179" alt="" />
 						</div>
 						<div class="slide">
-							<img src="/paws/assets/images/start-fundraiser-logo-slider3.jpg" height="78" width="179" alt="" />
+							<img src="./images/start-fundraiser-logo-slider3.jpg" height="78" width="179" alt="" />
 						</div>
 						<div class="slide">
-							<img src="/paws/assets/images/start-fundraiser-logo-slider4.jpg" height="78" width="179" alt="" />
+							<img src="./images/start-fundraiser-logo-slider4.jpg" height="78" width="179" alt="" />
 						</div>
 						<div class="slide">
-							<img src="/paws/assets/images/start-fundraiser-logo-slider5.jpg" height="78" width="179" alt="" />
+							<img src="./images/start-fundraiser-logo-slider5.jpg" height="78" width="179" alt="" />
 						</div>
 						<div class="slide">
-							<img src="/paws/assets/images/start-fundraiser-logo-slider6.jpg" height="78" width="179" alt="" />
+							<img src="./images/start-fundraiser-logo-slider6.jpg" height="78" width="179" alt="" />
 						</div>
 						<div class="slide">
-							<img src="/paws/assets/images/start-fundraiser-logo-slider7.jpg" height="78" width="179" alt="" />
+							<img src="./images/start-fundraiser-logo-slider7.jpg" height="78" width="179" alt="" />
 						</div>
 						<div class="slide">
-							<img src="/paws/assets/images/start-fundraiser-logo-slider8.jpg" height="78" width="179" alt="" />
+							<img src="./images/start-fundraiser-logo-slider8.jpg" height="78" width="179" alt="" />
 						</div>
 					</div>
 				</div>
