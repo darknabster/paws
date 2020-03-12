@@ -1,7 +1,7 @@
 
 /*SPONSORS AND ANIMALS*/
 .sponsor-bg {
-  background-image: url(../../assets/images/sponsor-and-animal-banner.jpg);
+  background-image: url(../images/sponsor-and-animal-banner.jpg);
   background-size: cover;
   background-position: center;
   width: 100vw;
@@ -187,7 +187,7 @@
     margin-bottom: 5%;
 }
 .sponsor-form-main .sponsor-form-container .sponsor-form, .sponsor-form-amount, .sponsor-form-payment, .sponsor-form-info {
-  background-image: url('../../assets/images/sponsor-form-bg-img.jpg');
+  background-image: url('../images/sponsor-form-bg-img.jpg');
   background-size: cover;
   background-position: center;
   width: 100%;

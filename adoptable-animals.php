@@ -42,11 +42,11 @@
                             <input type="radio" id="carousel-4a" name="carousel[]">
                             <input type="radio" id="carousel-5a" name="carousel[]">
                             <ul class="carousel__items">
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet1.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet2.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet3.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet4.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet5.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet1.jpg" alt=""></li>
+                                <li class="carousel__item"><img src=".assets/images/sponsor-pet2.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet3.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet4.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet5.jpg" alt=""></li>
                             </ul>
                          <div class="carousel__prev">
                             <label for="carousel-1a"></label>
@@ -92,11 +92,11 @@
                             <input type="radio" id="carousel-4b" name="carousel[]">
                             <input type="radio" id="carousel-5b" name="carousel[]">
                             <ul class="carousel__items">
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet1.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet2.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet3.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet4.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet5.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet1.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet2.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet3.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet4.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet5.jpg" alt=""></li>
                             </ul>
                          <div class="carousel__prev">
                             <label for="carousel-1b"></label>
@@ -142,11 +142,11 @@
                             <input type="radio" id="carousel-4c" name="carousel[]">
                             <input type="radio" id="carousel-5c" name="carousel[]">
                             <ul class="carousel__items">
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet1.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet2.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet3.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet4.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet5.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet1.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet2.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet3.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet4.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet5.jpg" alt=""></li>
                             </ul>
                          <div class="carousel__prev">
                             <label for="carousel-1c"></label>
@@ -194,11 +194,11 @@
                             <input type="radio" id="carousel-4d" name="carousel[]">
                             <input type="radio" id="carousel-5d" name="carousel[]">
                             <ul class="carousel__items">
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet1.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet2.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet3.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet4.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet5.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet1.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet2.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet3.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet4.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet5.jpg" alt=""></li>
                             </ul>
                          <div class="carousel__prev">
                             <label for="carousel-1"></label>
@@ -244,11 +244,11 @@
                             <input type="radio" id="carousel-4e" name="carousel[]">
                             <input type="radio" id="carousel-5e" name="carousel[]">
                             <ul class="carousel__items">
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet1.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet2.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet3.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet4.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet5.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet1.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet2.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet3.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet4.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet5.jpg" alt=""></li>
                             </ul>
                          <div class="carousel__prev">
                             <label for="carousel-1e"></label>
@@ -294,11 +294,11 @@
                             <input type="radio" id="carousel-4f" name="carousel[]">
                             <input type="radio" id="carousel-5f" name="carousel[]">
                             <ul class="carousel__items">
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet1.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet2.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet3.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet4.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet5.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet1.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet2.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet3.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet4.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet5.jpg" alt=""></li>
                             </ul>
                          <div class="carousel__prev">
                             <label for="carousel-1f"></label>
@@ -346,11 +346,11 @@
                             <input type="radio" id="carousel-4gg" name="carousel[]">
                             <input type="radio" id="carousel-5" name="carousel[]">
                             <ul class="carousel__items">
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet1.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet2.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet3.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet4.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet5.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet1.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet2.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet3.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet4.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet5.jpg" alt=""></li>
                             </ul>
                          <div class="carousel__prev">
                             <label for="carousel-1g"></label>
@@ -396,11 +396,11 @@
                             <input type="radio" id="carousel-4h" name="carousel[]">
                             <input type="radio" id="carousel-5h" name="carousel[]">
                             <ul class="carousel__items">
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet1.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet2.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet3.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet4.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet5.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet1.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet2.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet3.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet4.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet5.jpg" alt=""></li>
                             </ul>
                          <div class="carousel__prev">
                             <label for="carousel-1h"></label>
@@ -446,11 +446,11 @@
                             <input type="radio" id="carousel-4" name="carousel[]">
                             <input type="radio" id="carousel-5" name="carousel[]">
                             <ul class="carousel__items">
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet1.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet2.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet3.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet4.jpg" alt=""></li>
-                                <li class="carousel__item"><img src="/paws/assets/images/sponsor-pet5.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet1.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet2.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet3.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet4.jpg" alt=""></li>
+                                <li class="carousel__item"><img src="./assets/images/sponsor-pet5.jpg" alt=""></li>
                             </ul>
                          <div class="carousel__prev">
                             <label for="carousel-1"></label>

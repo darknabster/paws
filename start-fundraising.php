@@ -32,19 +32,19 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 point1">
 					<a href="">
-						<img src="/paws/assets/images/bird.png">
+						<img src="./assets/images/bird.png">
 						<h3>POINT 1</h3>
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 point2">
 					<a href="">
-						<img src="/paws/assets/images/cat.png">
+						<img src="./assets/images/cat.png">
 						<h3>POINT 2</h3>
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 point3">
 					<a href="">
-						<img src="/paws/assets/images/dog.png">
+						<img src="./assets/images/dog.png">
 						<h3>POINT 3</h3>
 					</a>
 				</div>
@@ -67,7 +67,7 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 get-started-container">
-					<img src="/paws/assets/images/sponsor-pet4.jpg">
+					<img src="./assets/images/sponsor-pet4.jpg">
 					<div class="get-started-content">
 						<h3>Point 1</h3>
 						<p>
@@ -77,7 +77,7 @@
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 get-started-container">
-					<img src="/paws/assets/images/sponsor-pet4.jpg">
+					<img src="./assets/images/sponsor-pet4.jpg">
 					<div class="get-started-content">
 						<h3>Point 2</h3>
 						<p>
@@ -89,7 +89,7 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 get-started-container">
-					<img src="/paws/assets/images/sponsor-pet4.jpg">
+					<img src="./assets/images/sponsor-pet4.jpg">
 					<div class="get-started-content">
 						<h3>Point 3</h3>
 						<p>
@@ -99,7 +99,7 @@
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 get-started-container">
-					<img src="/paws/assets/images/sponsor-pet4.jpg">
+					<img src="./assets/images/sponsor-pet4.jpg">
 					<div class="get-started-content">
 						<h3>Point 4</h3>
 						<p>

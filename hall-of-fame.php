@@ -45,7 +45,7 @@
     <div class="muttini-upcoming-events">
       <div class="container">
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 muttini-upcoming-img">
-            <img src="/paws/assets/images/muttini-mixer-event.jpg">
+            <img src="./assets/images/muttini-mixer-event.jpg">
           </div>
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 muttini-upcoming-content">
             <h1>Upcoming Events:</h1>
