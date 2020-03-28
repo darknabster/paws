@@ -39,7 +39,7 @@
 				    <div class="col-md-4 col-sm-6 team-wrap">
 				      <div class="team-member text-center">
 				        <div class="team-img">
-				          <img src="/pawsonmywayhome/assets/images/ceo.png" alt="">
+				          <img src="./assets/images/ceo.png" alt="">
 				          <div class="overlay">
 				            <div class="team-details text-center">
 				              <p>
@@ -62,7 +62,7 @@
 				    <div class="col-md-4 col-sm-6 team-wrap">
 				      <div class="team-member text-center">
 				        <div class="team-img">
-				          <img src="/pawsonmywayhome/assets/images/ceo.png" alt="">
+				          <img src="./assets/images/ceo.png" alt="">
 				          <div class="overlay">
 				            <div class="team-details text-center">
 				              <p>
@@ -85,7 +85,7 @@
 				    <div class="col-md-4 col-sm-6 team-wrap">
 				      <div class="team-member last text-center">
 				        <div class="team-img">
-				          <img src="/pawsonmywayhome/assets/images/ceo.png" alt="">
+				          <img src="./assets/images/ceo.png" alt="">
 				          <div class="overlay">
 				            <div class="team-details text-center">
 				              <p>
@@ -112,7 +112,7 @@
 				    <div class="col-md-4 col-sm-6 team-wrap">
 				      <div class="team-member text-center">
 				        <div class="team-img">
-				          <img src="/pawsonmywayhome/assets/images/ceo.png" alt="">
+				          <img src="./assets/images/ceo.png" alt="">
 				          <div class="overlay">
 				            <div class="team-details text-center">
 				              <p>
@@ -135,7 +135,7 @@
 				    <div class="col-md-4 col-sm-6 team-wrap">
 				      <div class="team-member text-center">
 				        <div class="team-img">
-				          <img src="/pawsonmywayhome/assets/images/ceo.png" alt="">
+				          <img src="./assets/images/ceo.png" alt="">
 				          <div class="overlay">
 				            <div class="team-details text-center">
 				              <p>
@@ -158,7 +158,7 @@
 				    <div class="col-md-4 col-sm-6 team-wrap">
 				      <div class="team-member last text-center">
 				        <div class="team-img">
-				          <img src="/pawsonmywayhome/assets/images/ceo.png" alt="">
+				          <img src="./assets/images/ceo.png" alt="">
 				          <div class="overlay">
 				            <div class="team-details text-center">
 				              <p>

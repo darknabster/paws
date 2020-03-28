@@ -45,7 +45,7 @@
                     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
                 </p>
             </div>
-            <img class="home-pets-img" src="/pawsonmywayhome/assets/images/home-pets.png">
+            <img class="home-pets-img" src='./assets/images/home-pets.png'>
         </div>
     </div>
 
@@ -59,7 +59,7 @@
                     <span>Raised of <span class="target-amount">$2,760</span> target</span>
                 </div>
                 <div class="featured-cause-buttons">
-                    <button class="donate-now-btn">DONATE NOW</button>
+                    <button class="donate-now-btn" onclick="window.location.href = './donation.php';">DONATE NOW</button>
                     <button class="share-btn">SHARE</button>
                     <hr class="divider">
                     <button class="adopt-me-btn">ADOPT ME</button>
@@ -87,7 +87,7 @@
                 </div>
                 <div class="featured-social-btns">
                     <div class="container">
-                        <button>Facebook</button>
+                        <button onclick="window.location.href = 'https://www.facebook.com/OnMyWayHomeRescue';">Facebook</button>
                         <button>Email</button>
                         <button>Twitter</button>
                     </div>
@@ -111,7 +111,7 @@
                     <p>
                         All donations are fully tax deductible to the extent of the law.
                     </p>
-                    <img src="/pawsonmywayhome/assets/images/payapl-donations.jpg">
+                    <img src='./assets/images/payapl-donations.jpg'>
                 </div>
                 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 ongoing-mission-video">
                     <div class="video-wrapper">
@@ -124,7 +124,7 @@
             <!-- UPCOMING EVENTS -->
             <div class="upcoming-event">
                 <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 upcoming-events-img">
-                    <img src="/pawsonmywayhome/assets/images/home-corgi.jpg">
+                    <img src='./assets/images/home-corgi.jpg'>
                 </div>
                 <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 upcoming-events-contents">
                     <h2>Upcoming Adoption Events:</h2>
